@@ -1,0 +1,31 @@
+body {
+	background-color: #F9F9F9;
+}
+
+.container {
+  padding-top: 0.5rem;
+}
+
+.footer {
+	background-color: ##353A3F;
+}
+
+.card-header {
+	background-color: transparent;
+}
+
+footer {
+	background-color: #262626;
+	margin-top: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+	color: #888888;
+  margin-bottom: .25rem;
+}
+
+h5 {
+	color: #aaaaaa;
+}
